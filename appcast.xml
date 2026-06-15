@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  SIMULATION appcast for Causeur. The three items below are FAKE: the zips are
+  dummy files and the EdDSA signatures are placeholders, so in-app Sparkle
+  updates will NOT verify. They exist only to exercise the website's appcast
+  reader. Before the first real release, reset this file to the empty template
+  (the real workflow's generate_appcast will repopulate it with signed items).
+-->
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Causeur</title>
+    <link>https://raw.githubusercontent.com/Coding-motion-git/CauseurReleases/main/appcast.xml</link>
+    <description>Mises à jour automatiques de Causeur.</description>
+    <language>fr</language>
+
+    <item>
+      <title>1.1.0</title>
+      <pubDate>Mon, 15 Jun 2026 09:00:00 +0000</pubDate>
+      <description><![CDATA[Mises à jour automatiques (Sparkle) et barre de capture qui reste sur l'écran principal en multi-écran.]]></description>
+      <sparkle:version>1.1.0</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Coding-motion-git/CauseurReleases/releases/download/v1.1.0/Causeur-1.1.0.zip"
+                 sparkle:version="1.1.0"
+                 sparkle:shortVersionString="1.1.0"
+                 sparkle:edSignature="SIMULATION_PLACEHOLDER_SIGNATURE_NOT_VALID"
+                 length="228"
+                 type="application/octet-stream" />
+    </item>
+
+    <item>
+      <title>1.0.0</title>
+      <pubDate>Tue, 14 Apr 2026 09:00:00 +0000</pubDate>
+      <description><![CDATA[Première version stable : dictée vocale, formatage, raccourcis globaux et insertion au curseur.]]></description>
+      <sparkle:version>1.0.0</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Coding-motion-git/CauseurReleases/releases/download/v1.0.0/Causeur-1.0.0.zip"
+                 sparkle:version="1.0.0"
+                 sparkle:shortVersionString="1.0.0"
+                 sparkle:edSignature="SIMULATION_PLACEHOLDER_SIGNATURE_NOT_VALID"
+                 length="228"
+                 type="application/octet-stream" />
+    </item>
+
+    <item>
+      <title>0.9.0</title>
+      <pubDate>Mon, 02 Mar 2026 09:00:00 +0000</pubDate>
+      <description><![CDATA[Première bêta publique.]]></description>
+      <sparkle:version>0.9.0</sparkle:version>
+      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Coding-motion-git/CauseurReleases/releases/download/v0.9.0/Causeur-0.9.0.zip"
+                 sparkle:version="0.9.0"
+                 sparkle:shortVersionString="0.9.0"
+                 sparkle:edSignature="SIMULATION_PLACEHOLDER_SIGNATURE_NOT_VALID"
+                 length="228"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
