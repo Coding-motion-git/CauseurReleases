@@ -16,12 +16,20 @@
         <description>Mises à jour automatiques de Causeur.</description>
         <language>fr</language>
         <item>
+            <title>1.0.3</title>
+            <pubDate>Thu, 18 Jun 2026 12:44:28 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Coding-motion-git/CauseurReleases/releases/download/v1.0.3/Causeur-1.0.3.dmg" length="2379245" type="application/octet-stream" sparkle:edSignature="HK0OikwTEwO8bJwJyVI+lfcWB04DInLEqEsTQJUvD2qZEOZzdBgdCEuNIFuV1TZGiChlvf0OLH3P/eL0kxL/Ag=="/>
+        </item>
+        <item>
             <title>1.0.2</title>
             <pubDate>Thu, 18 Jun 2026 12:11:56 +0200</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Coding-motion-git/CauseurReleases/releases/download/v1.0.2/Causeur-1.0.2.zip" length="2410067" type="application/octet-stream" sparkle:edSignature="XPMEWejZB/gZkyHY4jw9tVnZSIknDifJxxPb4Ub2Bs4yUs+hypHI8OhmzWMkdZWCiayEks0gfSFDQg4afeUoBg=="/>
+            <enclosure url="https://github.com/Coding-motion-git/CauseurReleases/releases/download/v1.0.2/Causeur-1.0.2.dmg" length="2379486" type="application/octet-stream" sparkle:edSignature="mnm/L8bY75zvwJ5V5Rugao4HiTFgvnUMUj43yrG8ZpKMECXpCpaIv2Q+I6mx4eoiFmyDoWAATbefodL3NMOqDw=="/>
         </item>
         <item>
             <title>1.0</title>
