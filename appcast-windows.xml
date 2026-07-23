@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Causeur</title>
+    <description>Most recent changes with links to updates</description>
+    <language>en</language>
+    <item>
+      <title>Causeur 1.0.1</title>
+      <pubDate>Thu, 23 Jul 2026 15:00:23 +02:00</pubDate>
+      <sparkle:version>1.0.1</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <enclosure url="https://github.com/Coding-motion-git/CauseurReleases/releases/download/win-v1.0.1/Causeur-1.0.1.exe" sparkle:version="1.0.1" sparkle:shortVersionString="1.0.1" length="52207799" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="ezmxsGNmm6EjzHHhIDyLCEAdhASV/wDglqp8e4sDIWNRRBgxJOY9FgALwjq8uqiUsPIL7XnDWR7WD0/oxYD8BA==" />
+    </item>
+  </channel>
+</rss>
