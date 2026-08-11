@@ -5,11 +5,25 @@
     <description>Most recent changes with links to updates</description>
     <language>en</language>
     <item>
+      <title>Causeur 1.0.7</title>
+      <pubDate>Tue, 11 Aug 2026 12:40:37 +02:00</pubDate>
+      <sparkle:version>1.0.7</sparkle:version>
+      <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+      <enclosure url="https://github.com/Coding-motion-git/CauseurReleases/releases/download/win-v1.0.7/Causeur-1.0.7.exe" sparkle:version="1.0.7" sparkle:shortVersionString="1.0.7" length="52232280" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="enMyzkLb+SdZ7VF6GjK/TA/B8v8sSaHteyPxHVJENVWlRLuxPKnQ/5Sb6zgap8J74C/yWxR7WuFBk0pbnfMlDw==" />
+    </item>
+    <item>
+      <title>Causeur 1.0.5</title>
+      <pubDate>Tue, 11 Aug 2026 12:38:40 +02:00</pubDate>
+      <sparkle:version>1.0.5</sparkle:version>
+      <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+      <enclosure url="https://github.com/Coding-motion-git/CauseurReleases/releases/download/win-v1.0.5/Causeur-1.0.5.exe" sparkle:version="1.0.5" sparkle:shortVersionString="1.0.5" length="52223848" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="uXRBKO0pbNZjfFFEQcG+YhnV8IlABXUw66z/UNYp9HHf2Gmq97rvuVKIfAwbkZJ6MCg862u1/j2m59P53ph6Dg==" />
+    </item>
+    <item>
       <title>Causeur 1.0.4</title>
       <pubDate>Thu, 23 Jul 2026 20:59:35 +02:00</pubDate>
       <sparkle:version>1.0.4</sparkle:version>
       <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
-      <enclosure url="https://github.com/Coding-motion-git/CauseurReleases/releases/download/win-v1.0.4/Causeur-1.0.4.exe" sparkle:version="1.0.4" sparkle:shortVersionString="1.0.4" length="52203318" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="H0yIk8lz7hE2PRJigOnGZWh7u7gC2Zd6G/+jesZVnPkjGwdgcZoq6N1iWMJ4qtA7oJa86zbzqx6nPoKFGzbVAQ==" />
+      <enclosure url="https://github.com/Coding-motion-git/CauseurReleases/releases/download/win-v1.0.4/Causeur-1.0.4.exe" sparkle:version="1.0.4" sparkle:shortVersionString="1.0.4" length="52203318" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="H0yIk8lz7hE2PRJigOnGZWh7u7gC2Zd6G/+jesZVnPkjGwdgcZoq6N1iWMJ4qtA7oJa86zbzqx6nPoKFGzbVAQ==" />
     </item>
     <item>
       <title>Causeur 1.0.3</title>
