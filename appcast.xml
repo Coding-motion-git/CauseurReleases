@@ -16,6 +16,14 @@
         <description>Mises à jour automatiques de Causeur.</description>
         <language>fr</language>
         <item>
+            <title>1.8.0</title>
+            <pubDate>Mon, 21 Sep 2026 15:21:00 +0200</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Coding-motion-git/CauseurReleases/releases/download/v1.8.0/Causeur-1.8.0.dmg" length="5640405" type="application/octet-stream" sparkle:edSignature="BLwpudC9KBkOv+JCKmC0n7mZyMMIWLq6ySRf1WIfZX+bYhhbKkiA2c8IxD4myQxi4YQiSOZIiuQcNQX1dLtnBA=="/>
+        </item>
+        <item>
             <title>1.0.7</title>
             <pubDate>Fri, 31 Jul 2026 10:57:31 +0200</pubDate>
             <sparkle:version>7</sparkle:version>
