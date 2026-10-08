@@ -5,11 +5,18 @@
     <description>Most recent changes with links to updates</description>
     <language>en</language>
     <item>
+      <title>Causeur 1.2.3</title>
+      <pubDate>Thu, 08 Oct 2026 15:21:20 +02:00</pubDate>
+      <sparkle:version>1.2.3</sparkle:version>
+      <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+      <enclosure url="https://github.com/Coding-motion-git/CauseurReleases/releases/download/win-v1.2.3/Causeur-1.2.3.exe" sparkle:version="1.2.3" sparkle:shortVersionString="1.2.3" length="52483712" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="QKUaaSUNc3kKXOk4DRSR1brnRTzpGP52twlCwfbW0t2JOs5hPgOUZ5BQ6RBvXBPZJY4npYx95SFjCk2r4K39Bw==" />
+    </item>
+    <item>
       <title>Causeur 1.2.2</title>
       <pubDate>Tue, 06 Oct 2026 16:35:30 +02:00</pubDate>
       <sparkle:version>1.2.2</sparkle:version>
       <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
-      <enclosure url="https://github.com/Coding-motion-git/CauseurReleases/releases/download/win-v1.2.2/Causeur-1.2.2.exe" sparkle:version="1.2.2" sparkle:shortVersionString="1.2.2" length="52481904" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="gRgFFKQacJsuuZjF16hw12Y/8vl8U+JmILelafNkuxA6y0Thfny/s88g6aSg3MkCUnfePaB2F/34J7A0ZzViCg==" />
+      <enclosure url="https://github.com/Coding-motion-git/CauseurReleases/releases/download/win-v1.2.2/Causeur-1.2.2.exe" sparkle:version="1.2.2" sparkle:shortVersionString="1.2.2" length="52481904" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="gRgFFKQacJsuuZjF16hw12Y/8vl8U+JmILelafNkuxA6y0Thfny/s88g6aSg3MkCUnfePaB2F/34J7A0ZzViCg==" />
     </item>
     <item>
       <title>Causeur 1.2.1</title>
